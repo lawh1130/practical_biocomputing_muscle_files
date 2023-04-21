@@ -1,0 +1,11 @@
+.\muscle.exe -align fancy_fungi_its.fa -output fancy_fungi_muscle_works_in_powershell.afa
+
+
+
+.\muscle.exe -align fancy_fungi_its.fa -output fancy_fungi_muscle_works_in_powershell_in_pycharm_tutorial_window.afa
+
+
+
+successful gitbash command:
+
+./muscle.exe -align opuntia.fasta -output opuntia_through_gitbash.afa
